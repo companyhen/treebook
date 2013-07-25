@@ -3,3 +3,9 @@ zac:
   last_name: "Cohen"
   email: "companyhen@gmail.com"
   profile_name: "zaccohen"
+
+bob:
+  first_name: "Bob"
+  last_name: "Bill"
+  email: "bob@bill.com"
+  profile_name: "bobbill"
